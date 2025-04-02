@@ -1,0 +1,30 @@
+{
+    "@context": {
+        "airQualityLevel": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/airQualityLevel",
+        "AirQualityObserved": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/AirQualityObserved",
+        "almostFull": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/almostFull",
+        "availableSpotNumber": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/availableSpotNumber",
+        "brandName": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/brandName",
+        "Building": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/Building",
+        "Bus": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/Bus",
+        "fuelLevel": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/fuelLevel",
+        "gps": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/gps",
+        "hasWeatherObserved": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/hasWeatherObserved",
+        "isNextToBuilding": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/isNextToBuilding",
+        "isParked": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/isParked",
+        "name": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/name",
+        "OffStreetParking": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/OffStreetParking",
+        "Parking": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/Parking",
+        "providedBy": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/providedBy",
+        "reliability": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/reliability",
+        "scope": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/scope",
+        "speed": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/speed",
+        "street": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/street",
+        "Streetlight": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/Streetlight",
+        "subCategory": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/subCategory",
+        "temperature": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/temperature",
+        "totalSpotNumber": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/totalSpotNumber",
+        "TouristDestination": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/TouristDestination",
+        "Vehicle": "https://herejusttobemodified.github.io/context/terms.jsonld#/definitions/Vehicle"
+    }
+}
