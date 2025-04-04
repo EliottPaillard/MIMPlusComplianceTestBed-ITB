@@ -3,7 +3,7 @@
         "airQualityLevel": "https://eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/terms.jsonld#/definitions/airQualityLevel",
         "AirQualityObserved": "https://eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/terms.jsonld#/definitions/AirQualityObserved",
         "almostFull": "https://eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/terms.jsonld#/definitions/almostFull",
-        "availableSpotNumber": "eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/terms.jsonld#/definitions/availableSpotNumber",
+        "availableSpotNumber": "https://eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/terms.jsonld#/definitions/availableSpotNumber",
         "brandName": "https://eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/terms.jsonld#/definitions/brandName",
         "Building": "https://eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/terms.jsonld#/definitions/Building",
         "Bus": "https://eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/terms.jsonld#/definitions/Bus",
