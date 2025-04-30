@@ -1,0 +1,6 @@
+{
+    "@context": [
+        "https://eliottpaillard.github.io/MIMPlusComplianceTestBed-ITB/MIM1/context/user-context_minimal.jsonld",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.7.jsonld"
+    ]
+}
